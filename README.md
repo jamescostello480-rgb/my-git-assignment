@@ -1,2 +1,4 @@
 # James Costello
-- Initial
+
+* Initial
+* Update 1 Readme
